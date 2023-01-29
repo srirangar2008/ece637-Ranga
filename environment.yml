@@ -1,0 +1,6 @@
+name: ECE637
+dependencies:
+  - numpy
+  - matplotlib
+  - pillow
+  - scipy
